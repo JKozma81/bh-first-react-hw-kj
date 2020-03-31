@@ -1,7 +1,7 @@
 import React from 'react';
 import './socials.css';
-import Contacts from '../contacts/Contacts';
-import SocialIconsContainer from '../social-icon-container/Social-icon-container';
+import Contacts from './contacts/Contacts';
+import SocialIconsContainer from './social-icon-container/Social-icon-container';
 
 function SocialsContainer() {
   return (
