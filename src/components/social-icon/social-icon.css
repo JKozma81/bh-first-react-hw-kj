@@ -1,0 +1,27 @@
+.social-icon {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 36px;
+  height: 36px;
+}
+
+.usa {
+  background-image: url(./usa.png);
+}
+
+.facebook {
+  background-image: url(./facebook.png);
+}
+
+.insta {
+  background-image: url(./insta.png);
+}
+
+.youtube {
+  background-image: url(./youtube.png);
+}
+
+.linkedin {
+  background-image: url(./linkedin.png);
+}

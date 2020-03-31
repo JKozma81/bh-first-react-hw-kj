@@ -1,0 +1,8 @@
+.logo {
+  background-image: url(./bh-logo.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 215px;
+  height: 100px;
+}
