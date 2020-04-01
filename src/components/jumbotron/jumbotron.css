@@ -1,0 +1,17 @@
+.jumbotron-bg {
+  background-image: url('./Jumbotron-bg.png');
+  width: 100%;
+  min-height: 550px;
+}
+
+.jumbotron-header {
+  font-size: 40px;
+}
+
+.jumbotron-content {
+  width: 900px;
+}
+
+.conditions {
+  margin: 50px 0;
+}

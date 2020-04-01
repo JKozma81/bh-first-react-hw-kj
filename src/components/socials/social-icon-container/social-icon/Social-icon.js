@@ -8,7 +8,7 @@ function SocialIcon() {
     return (
       <li key={index}>
         <a href="./">
-          <div className={`social-icon ${icon}`}></div>
+          <div className={`social-icon ${icon} bg-image-pozition`}></div>
         </a>
       </li>
     );

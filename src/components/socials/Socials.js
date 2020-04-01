@@ -5,7 +5,7 @@ import SocialIconsContainer from './social-icon-container/Social-icon-container'
 
 function SocialsContainer() {
   return (
-    <div className="container-flex-row between socials padding-sides-30">
+    <div className="d-flex flex-row justify-between align-items-center socials padding-sides-30">
       <Contacts />
       <SocialIconsContainer />
     </div>
